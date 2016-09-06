@@ -4,7 +4,7 @@
  * course: CMPT 220
  * assignment: Lab1
  * due date: Sept 07/16
- * version: 1.0
+ * version: 1.0 
  * 
  * This file contains the solution for problem 1.3
  */
