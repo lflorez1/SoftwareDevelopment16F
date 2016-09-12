@@ -1,0 +1,20 @@
+9 pts
+
+Laura,
+
+- Congratulations on passing the judge Kattis!
+
+- Good style!
+
+However, 
+
+- The comment in the header does not correctly describe the function of your
+  program. It is obvious that it contains code, but... what does the code do? 
+
+- Please read the style guidelines to make sure you understand them. Do not
+  hesitate to ask any questions.
+
+
+Peace,
+
+- Dr. Rivas
