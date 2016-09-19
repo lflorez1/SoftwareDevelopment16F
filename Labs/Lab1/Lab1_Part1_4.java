@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 public class Lab1_Part1_4 {
   public static void main (String[] args) {
+    // == you are using tabs!!!
   	//Create a scanner object 
   	Scanner input = new Scanner(System.in);
 

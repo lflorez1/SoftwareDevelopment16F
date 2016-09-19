@@ -13,10 +13,12 @@ import java.util.Scanner;
 
 public class Lab1_Part2 {
   public static void main (String[] args) {
+    // == you are using tabs!!!
   	//Create a scanner object 
   	Scanner input = new Scanner(System.in);
 
   	//Prompt the user to enter the grades for each field 
+    // == the following line exceeds 80 characters in length!
   	System.out.print("Please enter the following as percentage: \n midterm exam, final exam, projects, homeworks and labs: ");
   	double midtermExam = input.nextDouble();
     double finalExam = input.nextDouble();
