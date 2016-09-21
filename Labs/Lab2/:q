@@ -18,12 +18,8 @@ public class Lab2_2 {
     Scanner input = new Scanner(System.in);
 
     //Prompt the user to enter the grades for each field 
-
-    System.out.print("Please enter the following as percentage: \n midterm exam, final exam, projects, homeworks and labs: ");
-
     System.out.print("Please enter the following as percentage: \n " + 
         "midterm exam, final exam, projects, homeworks and labs: ");
-
     double midtermExam = input.nextDouble();
     double finalExam = input.nextDouble();
     double projects = input.nextDouble();
