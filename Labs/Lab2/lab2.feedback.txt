@@ -1,0 +1,25 @@
+7 pts
+
+Laura, 
+
+About your programs...
+
+Functionality
+
+- Could not test functionality because programs cannot be compiled.  -1pt
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+Please make sure you follow the style guidelines and that your programs can be
+compiled using javac. Penalties will be higher as the semester moves forward.
+
+Peace,
+
+- Dr. Rivas
