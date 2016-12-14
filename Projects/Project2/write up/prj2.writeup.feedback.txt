@@ -1,0 +1,9 @@
+38 pts
+
+The project is about a random password generator.
+
+However, there are some issues...
+Code:
+- You are using tabs. -1pt
+
+- There is incorrect indentation. -1pt
